@@ -24,7 +24,7 @@
     "php": ">=7.2.9",
     "mnapoli/silly": "~1.0",
     "illuminate/view": "^7.0",
-    "mnapoli/front-yaml": "^1.6",
+    "mnapoli/front-yaml": "^1.6.1",
     "windwalker/renderer": "3.*"
   },
   "require-dev": {
